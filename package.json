@@ -1,0 +1,25 @@
+{
+  "name": "is-it-nice-out",
+  "version": "1.0.0",
+  "description": "a simple javascript and html program to illustrate unit test component isolation",
+  "main": "logic.js",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-core": "^2.8.0",
+    "jasmine-jquery": "^2.1.1",
+    "jquery": "^3.2.1",
+    "reveal.js": "^3.5.0"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/natesuver/is-it-nice-out"
+  },
+  "author": "Nate Suver",
+  "license": "MIT"
+}
