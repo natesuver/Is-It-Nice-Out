@@ -9,3 +9,5 @@ A simple javascript and html program to illustrate concepts of unit testing and 
 * open slides.html in your browser to view the slide deck
 * open test.html to view the jasmine test rig, and run the tests
 * open index.html to run the program
+* Sample used to demonstrate continuous integration - *https://github.com/natesuver/paddle-battle*
+* Continuous Integration test rig is located here - *https://travis-ci.org/natesuver/paddle-battle*
